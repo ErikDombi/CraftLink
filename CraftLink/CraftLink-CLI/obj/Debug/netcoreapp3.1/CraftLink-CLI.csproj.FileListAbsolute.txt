@@ -1,0 +1,14 @@
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink-CLI.exe
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink-CLI.deps.json
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink-CLI.runtimeconfig.json
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink-CLI.runtimeconfig.dev.json
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink-CLI.dll
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink-CLI.pdb
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink.dll
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\bin\Debug\netcoreapp3.1\CraftLink.pdb
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\obj\Debug\netcoreapp3.1\CraftLink-CLI.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\obj\Debug\netcoreapp3.1\CraftLink-CLI.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\obj\Debug\netcoreapp3.1\CraftLink-CLI.AssemblyInfo.cs
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\obj\Debug\netcoreapp3.1\CraftLink-CLI.csproj.CopyComplete
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\obj\Debug\netcoreapp3.1\CraftLink-CLI.dll
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink-CLI\obj\Debug\netcoreapp3.1\CraftLink-CLI.pdb

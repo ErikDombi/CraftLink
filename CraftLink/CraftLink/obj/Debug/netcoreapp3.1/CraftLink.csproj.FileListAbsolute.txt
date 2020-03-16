@@ -1,0 +1,8 @@
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\bin\Debug\netcoreapp3.1\CraftLink.deps.json
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\bin\Debug\netcoreapp3.1\CraftLink.dll
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\obj\Debug\netcoreapp3.1\CraftLink.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\obj\Debug\netcoreapp3.1\CraftLink.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\obj\Debug\netcoreapp3.1\CraftLink.AssemblyInfo.cs
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\bin\Debug\netcoreapp3.1\CraftLink.pdb
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\obj\Debug\netcoreapp3.1\CraftLink.dll
+C:\Users\Erik\Documents\GitHub\CraftLink\CraftLink\CraftLink\obj\Debug\netcoreapp3.1\CraftLink.pdb
